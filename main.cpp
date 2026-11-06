@@ -8,7 +8,7 @@ int main() {
     if (a<18)
     cout<<"not eligible "<<endl;
     else
-    cout<< "eligible"
+    cout<< "eligible";
 
     return 0
 }
