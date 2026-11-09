@@ -10,4 +10,3 @@ int main() {
     else
     cout<< a << " is not a vowel"<<endl;
     return 0;
-}
