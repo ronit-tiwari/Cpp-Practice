@@ -10,6 +10,6 @@ int main() {
     else
     cout<< "eligible";
 
-    return 0
+    return 0;
 
 }
